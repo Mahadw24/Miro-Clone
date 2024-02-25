@@ -1,8 +1,8 @@
 export default {
   providers: [
     {
-      domain: "https://just-mastodon-0.clerk.accounts.dev",
+      domain: "https://positive-macaque-66.clerk.accounts.dev",
       applicationID: "convex",
     },
-  ]
+  ],
 };
